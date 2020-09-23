@@ -13,7 +13,7 @@
 
 ### Requirements
 
-**MacOS:**
+**MacOS:***
 
 Install [Docker](https://docs.docker.com/docker-for-mac/install/), [Docker-compose](https://docs.docker.com/compose/install/#install-compose) and [Docker-sync](https://github.com/EugenMayer/docker-sync/wiki/docker-sync-on-OSX).
 
